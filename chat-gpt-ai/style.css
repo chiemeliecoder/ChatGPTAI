@@ -1,21 +1,21 @@
-:root{
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 400;
+  font-family: "Arial", sans-serif;
+  /*font-size: 16px;*/
+  /*line-height: 24px;*/
+  /*font-weight: 400;*/
 
-  background-color: #343541;
+  /*background-color: #343541;*/
 
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  /* For Windows */
-  -webkit-font-smoothing: antialiased;
-  /* For modern browsers */
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
+  /*font-synthesis: none;*/
+  /*text-rendering: optimizeLegibility;*/
+  /*!* For Windows *!*/
+  /*-webkit-font-smoothing: antialiased;*/
+  /*!* For modern browsers *!*/
+  /*-moz-osx-font-smoothing: grayscale;*/
+  /*-webkit-text-size-adjust: 100%;*/
 }
 
 body {
